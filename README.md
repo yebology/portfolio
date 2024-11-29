@@ -70,7 +70,7 @@ So, here’s a peek at some of the cool stuff I’ve been working on:
   <summary><strong>🚀 Crowdfy: A Web3 crowdfunding platform on the Ethereum network, revolutionizing how we support projects and causes.</strong></summary>
   <br>
   
-  - **🌐 Network**: Solana 
+  - **🌐 Network**: Ethereum 
   - **💼 Role**: Solo Fullstack Web3 Developer
   - **🔗 Github**: [View Github](https://github.com/yebology/crowdfy-summary.git)
   - **🎥 Video Demo**: [Watch Video](https://drive.google.com/file/d/18yGWa3Xe4NLE9-gyEaVRPRwkHPl3GIrB/view)
