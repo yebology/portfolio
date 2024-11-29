@@ -2,7 +2,7 @@
 
 Hi there! I’m **Yobel**👋, and I’m super passionate about **Web3 technology**. 🚀 I love diving into the world of **decentralized applications (dApps)** and have been building across the **Ethereum, Solana, and ICP** ecosystems. 🌐 To me, **dApps** are game-changers—they bring transparency and security straight to the people. 🔒✨ Through my projects, I’m all about creating innovative solutions that unlock the true power of decentralization. Let’s build the **future** together! 🙌
 
-So, let's take a look at my projects : 
+So, here’s a peek at some of the cool stuff I’ve been working on:
 
 <details>
   <summary><strong>🏠 BlocEstate: A blockchain-powered real estate auction platform on the ICP network</strong></summary>
