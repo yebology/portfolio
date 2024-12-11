@@ -8,7 +8,8 @@ So, here’s a peek at some of the cool stuff I’ve been working on:
   <summary><strong>🏠 BlocEstate: A blockchain-powered real estate auction platform on the ICP network</strong></summary>
   <br>
 
-  - **🌐 Network**: Internet Computer Protocol (ICP)  
+  - **🌐 Network**: Internet Computer Protocol (ICP)
+  - **🏆 Achievement**: [2nd Winner of Codefest ICP Hub Indonesia Hackathon 7.0](https://www.instagram.com/p/DCYu6fMzAoI/?img_index=2&igsh=eTl4OTJ0aXh6aWY1)
   - **💼 Role**: Web3 Developer
   - **🔗 Github**: [View Github](https://github.com/yebology/blocestate-summary.git)
   - **🎥 Video Demo**: [Watch Video](https://drive.google.com/file/d/1woOIngYwa_lxsd1MBnSu9ii1GV5BNXpF/view)
